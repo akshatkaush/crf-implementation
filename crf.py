@@ -1,3 +1,9 @@
+# !pip install opencv-python
+# !pip install pydensecrf 
+# !pip install Keras
+# !pip install imgaug
+
+
 import os
 import cv2
 from PIL import Image
